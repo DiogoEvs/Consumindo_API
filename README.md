@@ -1,0 +1,1 @@
+Desbloqueando Cors da API.
