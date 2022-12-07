@@ -28,7 +28,7 @@ async function novoUsuario() {
     let usuario = document.getElementById("usuario")
     let senha = document.getElementById("senha")
     let dataCriacao = dataAtual()
-    
+
     const res = await fetch(url, {
         method: "POST",
         headers: {
@@ -39,10 +39,10 @@ async function novoUsuario() {
             "senha": senha.value,
             "dataCriacao": dataCriacao
         })
-        
+
     })
 
-    if(res) {
+    if (res) {
         alert("Usuário cadastrado com sucesso!")
     }
 
