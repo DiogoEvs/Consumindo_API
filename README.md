@@ -1,1 +1,1 @@
-Desbloqueando ![](https://img.shields.io/badge/CORs-da-inactive)![](https://img.shields.io/badge/-API-black).
+![](https://img.shields.io/badge/Desbloqueando-o%20CORs%20da%20API.-black)
